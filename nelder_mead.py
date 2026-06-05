@@ -16,7 +16,7 @@ Stopping criteria (both must be satisfied):
     |f_worst - f_best| < tol_f   (function value spread)
     max_i ||x_i - x_best|| < tol_x  (simplex diameter)
 
-Authors: Elia Zonta, Giuseppe Fontanella, Fatima Ali
+Authors: Elia Zonta, Giuseppe Fontanella
 """
 
 import numpy as np

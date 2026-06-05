@@ -183,5 +183,4 @@ Nelder, J. A. & Mead, R. (1965). A simplex method for function minimization.
 ## Authors
 
 Elia Zonta,
-Giuseppe Fontanella,
-Fatima Ali
+Giuseppe Fontanella
